@@ -3,32 +3,32 @@
 Sumber daya Twinkl untuk Sentra Persiapan, dikumpulkan dari Modul Ajar (KB Sem 1 & 2, TK A Sem 1 & 2, TK B Sem 1 & 2).
 Kurikulum Merdeka, Fase Fondasi, TP 2026-2027.
 
-**76 resources** across **20 categories**, organized in folders with downloaded ZIP files.
+**76 resources** across **20 categories**. Each resource is either a PDF file or a subdirectory containing extracted PDFs (color, BW, answer key variants).
 
 ## Struktur Folder
 
-| # | Folder | Jenjang | Files |
-|---|--------|---------|-------|
-| 01 | letter-tracing | KB, TK A | 4 |
-| 02 | word-tracing | TK A, TK B | 4 |
-| 03 | animal-matching-cards | KB, TK A, TK B | 5 |
-| 04 | emotion-flashcards | KB, TK A, TK B | 3 |
-| 05 | body-parts | KB, TK A | 4 |
-| 06 | musical-instruments | TK A, TK B | 4 |
-| 07 | weather-cards | KB, TK A, TK B | 3 |
-| 08 | handwashing-sequence | KB, TK A | 4 |
-| 09 | healthy-food-sorting | TK A, TK B | 4 |
-| 10 | community-helpers | TK A, TK B | 4 |
-| 11 | family-tree | TK A, TK B | 3 |
-| 12 | butterfly-life-cycle | TK B | 4 |
-| 13 | solar-system | TK B | 4 |
-| 14 | traffic-signs | TK A, TK B | 2 |
-| 15 | animal-coloring | KB, TK A | 5 |
-| 16 | number-worksheets | KB, TK A | 4 |
-| 17 | pattern-worksheets | TK A, TK B | 4 |
-| 18 | sequencing-cards | KB, TK A, TK B | 4 |
-| 19 | sorting-worksheets | TK A, TK B | 3 |
-| 20 | five-senses | KB, TK A, TK B | 4 |
+| # | Folder | Jenjang | Resources |
+|---|--------|---------|-----------|
+| 01 | letter-tracing | KB, TK A | 4 (1 dir, 3 pdf) |
+| 02 | word-tracing | TK A, TK B | 4 (1 dir, 3 pdf) |
+| 03 | animal-matching-cards | KB, TK A, TK B | 5 (3 dir, 2 pdf) |
+| 04 | emotion-flashcards | KB, TK A, TK B | 3 (2 dir, 1 pdf) |
+| 05 | body-parts | KB, TK A | 4 (1 dir, 3 pdf) |
+| 06 | musical-instruments | TK A, TK B | 4 (4 pdf) |
+| 07 | weather-cards | KB, TK A, TK B | 3 (3 dir) |
+| 08 | handwashing-sequence | KB, TK A | 4 (1 dir, 3 pdf) |
+| 09 | healthy-food-sorting | TK A, TK B | 4 (4 pdf) |
+| 10 | community-helpers | TK A, TK B | 4 (1 dir, 3 pdf) |
+| 11 | family-tree | TK A, TK B | 3 (3 pdf) |
+| 12 | butterfly-life-cycle | TK B | 4 (1 dir, 3 pdf) |
+| 13 | solar-system | TK B | 4 (1 dir, 3 pdf) |
+| 14 | traffic-signs | TK A, TK B | 2 (2 pdf) |
+| 15 | animal-coloring | KB, TK A | 5 (5 pdf) |
+| 16 | number-worksheets | KB, TK A | 4 (3 dir, 1 pdf) |
+| 17 | pattern-worksheets | TK A, TK B | 4 (4 pdf) |
+| 18 | sequencing-cards | KB, TK A, TK B | 4 (1 dir, 3 pdf) |
+| 19 | sorting-worksheets | TK A, TK B | 3 (3 dir) |
+| 20 | five-senses | KB, TK A, TK B | 4 (2 dir, 2 pdf) |
 
 ## Daftar Sumber Daya per Kategori
 
