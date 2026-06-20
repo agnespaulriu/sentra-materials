@@ -1,0 +1,5 @@
+node_modules/
+cookies.txt
+download*.js
+download*.sh
+*.output
