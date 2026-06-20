@@ -28,11 +28,17 @@ sentra-seni/           9 resources,  5 categories
 
 Setiap kategori berisi file PDF atau subdirektori yang berisi file-file hasil ekstrak (varian warna, hitam putih, kunci jawaban).
 
-## Jenjang
+## Jadwal Modul Ajar
 
-- **KB** (Kelompok Bermain, 3-4 tahun): 2 semester
-- **TK A** (Taman Kanak-kanak A, 4-5 tahun): 2 semester
-- **TK B** (Taman Kanak-kanak B, 5-6 tahun): 2 semester
+Jadwal lengkap semua sentra dengan tautan ke materi yang sesuai untuk setiap pertemuan:
+
+| Jenjang | Usia | Jadwal |
+|---------|------|--------|
+| **KB** (Kelompok Bermain) | 3-4 tahun | [kb-jadwal.md](kb-jadwal.md) |
+| **TK A** (Taman Kanak-kanak A) | 4-5 tahun | [tk-a-jadwal.md](tk-a-jadwal.md) |
+| **TK B** (Taman Kanak-kanak B) | 5-6 tahun | [tk-b-jadwal.md](tk-b-jadwal.md) |
+
+Setiap jadwal mencakup 5 sentra x 2 semester, dengan kolom "Sentra Materials" yang menautkan ke folder materi yang relevan untuk setiap pertemuan.
 
 ## Catatan
 
